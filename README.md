@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi My name is Nandan Kumar<br>Data Scientist & Machine Learning Engineer<br>Love Writing Efficient Code<br><br>🌍  I'm based in India, Faridabad<br>✉️  You can contact me at 27548nandan.2021cse@gmail.com<br>🚀  I'm currently working on Machine Learning<br>🧠  I'm learning SQL and Power Bi<br>🤝  I'm open to collaborating on ML & Data Science Projects
+Hi My name is Nandan Kumar<br>Data Scientist & Machine Learning Engineer<br>Love Writing Efficient Code<br><br>🌍  I'm based in India, Faridabad<br>✉️  You can contact me at 27548nandan.2021cse@gmail.com<br>🚀  I'm currently working on Machine Learning<br>🧠  I'm learning Power Bi & TensorFlow<br>🤝  I'm open to collaborating on ML & Data Science Projects
 
 
 ## 🌐 Socials:
