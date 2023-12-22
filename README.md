@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nandan Kumar<br>Data Scientist & Machine Learning Engineer<br>Love Writing Efficient Code<br><br>🌍  I'm based in India, Faridabad<br>✉️  You can contact me at 27548nandan.2021cse@gmail.com<br>🚀  I'm currently working on Machine Learning<br>🧠  I'm learning Power Bi & TensorFlow<br>🤝  I'm open to collaborating on ML & Data Science Projects
+Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="20px"/> My name is Nandan Kumar<br>Data Scientist & Machine Learning Engineer<br>Love Writing Efficient Code<br><br>🌍  I'm based in India, Faridabad<br>✉️  You can contact me at 27548nandan.2021cse@gmail.com<br>🚀  I'm currently working on Machine Learning<br>🧠  I'm learning Power Bi & TensorFlow<br>🤝  I'm open to collaborating on ML & Data Science Projects
 
 
 ## 🌐 Socials:
