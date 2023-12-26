@@ -6,7 +6,7 @@ Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-07859
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandan-kumar-787944229/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/nandan_kumar07/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23220022.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/NandanKumar)
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/Nandan_Kr07)
 
 
 # 💻 Tech Stack:
