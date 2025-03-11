@@ -18,3 +18,5 @@ I'm a Computer Science student at UIET, Rohtak, passionate about problem-solving
 - **Twitter:** [Nandan_Kr07](https://x.com/Nandan_Kr07)
 - **LeetCode:** [Profile](https://leetcode.com/u/nandan_kumar07/)
 - **Codeforces:** [Profile](https://codeforces.com/profile/NandanKumar)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandankumar07&layout=compact)
