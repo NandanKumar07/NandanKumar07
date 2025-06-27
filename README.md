@@ -12,9 +12,20 @@ I'm a Computer Science student at UIET, Rohtak, passionate about problem-solving
 - Machine Learning
 - Networking
 
-## Recent Article
-📄 [The Complete Guide to Downloading Subtitles with OpenSubtitles.com REST API](https://medium.com/@nandankumarmle/the-complete-guide-to-downloading-subtitles-with-opensubtitles-com-rest-api-88941ff37faf)  
-*Learn how to fetch movie subtitles programmatically using OpenSubtitles REST API – perfect for projects like movie-based learning apps or streaming platforms.*
+## 📰 Featured Article
+
+<a href="https://medium.com/@nandankumarmle/the-complete-guide-to-downloading-subtitles-with-opensubtitles-com-rest-api-88941ff37faf" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-Read%20Now-black?logo=medium&style=for-the-badge" alt="Medium Badge" />
+</a>
+
+### 🎬 The Complete Guide to Downloading Subtitles with OpenSubtitles.com REST API
+
+> Learn how to automatically fetch and download subtitles using OpenSubtitles.com's public REST API.  
+> Ideal for projects like subtitle-based learning apps, streaming platforms, or backend automation.
+
+📅 *Published: June 2025*  
+🔗 [Read the full article on Medium »](https://medium.com/@nandankumarmle/the-complete-guide-to-downloading-subtitles-with-opensubtitles-com-rest-api-88941ff37faf)
+
 
 
 ## Connect with Me
