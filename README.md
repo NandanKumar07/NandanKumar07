@@ -12,6 +12,11 @@ I'm a Computer Science student at UIET, Rohtak, passionate about problem-solving
 - Machine Learning
 - Networking
 
+## Recent Article
+📄 [The Complete Guide to Downloading Subtitles with OpenSubtitles.com REST API](https://medium.com/@nandankumarmle/the-complete-guide-to-downloading-subtitles-with-opensubtitles-com-rest-api-88941ff37faf)  
+*Learn how to fetch movie subtitles programmatically using OpenSubtitles REST API – perfect for projects like movie-based learning apps or streaming platforms.*
+
+
 ## Connect with Me
 - **GitHub:** [NandanKumar07](https://github.com/NandanKumar07)
 - **LinkedIn:** [Nandan Kumar](https://www.linkedin.com/in/nandan-kumar-787944229/)
