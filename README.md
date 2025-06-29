@@ -29,7 +29,7 @@ I'm a Computer Science student at UIET, Rohtak, passionate about problem-solving
 
 
 ## Connect with Me
-- **Medium:** [NandanKumar]((https://medium.com/@nandankumarmle))
+- **Medium:** [NandanKumar](https://medium.com/@nandankumarmle)
 - **LinkedIn:** [Nandan Kumar](https://www.linkedin.com/in/nandan-kumar-787944229/)
 - **Twitter:** [Nandan_Kr07](https://x.com/Nandan_Kr07)
 - **LeetCode:** [Profile](https://leetcode.com/u/nandan_kumar07/)
