@@ -3,6 +3,14 @@
 ## About Me
 I'm a Computer Science student at UIET, Rohtak, passionate about problem-solving, software development, and competitive programming. I enjoy learning and exploring new technologies.
 
+<a href="https://matrix-portfolio-nandan.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio Badge" />
+</a>
+&nbsp;
+<a href="https://drive.google.com/file/d/1sh6RM3Aui2LKkebN0ktTkaizZYx8RnKV/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download%20PDF-black?logo=google-drive&logoColor=white&style=for-the-badge" alt="Resume Badge" />
+</a>
+
 ## Skills
 - C/C++
 - JavaScript
